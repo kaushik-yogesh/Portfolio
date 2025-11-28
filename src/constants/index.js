@@ -75,10 +75,6 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
