@@ -191,6 +191,28 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "MacBookPro-redesign",
+    description:
+      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "three.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: macbookpro,
+    source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
+    live_website_link: "https://poojatrendhub.com/",
+  },
   // {
   //   name: "MacBookPro-redesign",
   //   description:
