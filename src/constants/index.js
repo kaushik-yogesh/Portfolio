@@ -192,7 +192,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "MacBookPro-redesign",
+    name: "My Portfolio",
     description:
       "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
     tags: [
@@ -201,7 +201,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "three.js",
+        name: "Metrial UI",
         color: "green-text-gradient",
       },
       {
@@ -210,77 +210,31 @@ const projects = [
       },
     ],
     image: macbookpro,
-    source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
+    source_code_link: "https://github.com/kaushik-yogesh/",
+    live_website_link: "https://portfolio-alpha-woad-602j3s0pu3.vercel.app/",
+  },
+  {
+    name: "E-Commerce Platform",
+    description:
+      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Metrial UI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: macbookpro,
+    source_code_link: "https://github.com/kaushik-yogesh/",
     live_website_link: "https://poojatrendhub.com/",
   },
-  // {
-  //   name: "MacBookPro-redesign",
-  //   description:
-  //     "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "three.js",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: macbookpro,
-  //   source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
-  //   live_website_link: "https://macbookpro3d.netlify.app/",
-  // },
-  // {
-  //   name: "Falverra Redesign",
-  //   description:
-  //     "A sleek and animated website redesign for Falverra, combining a clean layout with smooth transitions to deliver an engaging, modern browsing experience that highlights the brand’s visual identity and message.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "multi-page",
-  //       color: "green-text-gradient",
-  //     },
-  //   ],
-  //   image: falverra,
-  //   source_code_link: "https://github.com/gitswastik08/falverra-redesign",
-  //   live_website_link: "https://falverra-recode.netlify.app/",
-  // },
-  // {
-  //   name: "Trip Guide",
-  //   description:
-  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   // github link ⬇️
-  //   source_code_link: "https://github.com/",
-  //   // project link ⬇️
-  //   live_website_link: "https://app.netlify.com/teams/gitswastik08/projects",
-  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
