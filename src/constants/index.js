@@ -216,7 +216,7 @@ const projects = [
   {
     name: "E-Commerce Platform",
     description:
-      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+      "Pooja Trend Hub is a modern e-commerce platform focused on pooja, festive, and traditional Indian products, designed to deliver a smooth and inclusive shopping experience.It features product listings, category-based browsing, and a user-friendly UI built with modern web technologies.",
     tags: [
       {
         name: "react",
