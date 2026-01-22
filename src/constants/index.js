@@ -231,7 +231,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: macbookpro,
+    image: "https://res.cloudinary.com/dh6uiegxw/image/upload/v1769101447/Screenshot_2026-01-22_223325_p0uqoe.png",
     source_code_link: "https://github.com/kaushik-yogesh/",
     live_website_link: "https://poojatrendhub.com/",
   },
