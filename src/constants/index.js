@@ -194,7 +194,7 @@ const projects = [
   {
     name: "My Portfolio",
     description:
-      "Portfolio Website is a personal web platform designed to showcase projects, skills, and technical expertise in a clear and professional manner. It features a responsive layout, structured project sections, and a clean user interface built using modern web technologies.",
+      "Portfolio Website is a personal web platform designed to showcase projects, skills, and technical expertise in a clear and professional manner. It features a responsive layout, structured project sections, and a clean, modern, interactive user interface built using modern web technologies.",
     tags: [
       {
         name: "react",
