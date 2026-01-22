@@ -209,7 +209,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: macbookpro,
+    image: "",
     source_code_link: "https://github.com/kaushik-yogesh/",
     live_website_link: "https://portfolio-alpha-woad-602j3s0pu3.vercel.app/",
   },
